@@ -1,2 +1,2 @@
 # Permutation
-Permutations of strings
+Permutations of string
